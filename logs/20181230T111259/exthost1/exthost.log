@@ -1,0 +1,12 @@
+[2018-12-30 11:13:07.968] [exthost] [info] extension host started
+[2018-12-30 11:13:08.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-30 11:13:08.018] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-30 11:13:08.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-30 11:13:08.132] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2018-12-30 11:13:08.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-30 11:13:08.249] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2018-12-30 11:13:08.815] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-30 11:13:08.815] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2018-12-30 11:13:08.921] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-12-30 11:13:09.094] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2018-12-30 11:13:09.408] [exthost] [info] eager extensions activated

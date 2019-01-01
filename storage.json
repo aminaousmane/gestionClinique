@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "24332cc93babefffb0456f2f71184229eef3f1e1320a36540733a457e7dd7fee",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///var/www/html/gestionClinique"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/var/www/html/gestionClinique",
+                "external": "file:///var/www/html/gestionClinique",
+                "path": "/var/www/html/gestionClinique",
+                "scheme": "file"
+            },
+            "backupPath": "/var/www/html/gestionClinique/Backups/8ca6c6a223855efff6a1c268b14b1ac9",
+            "uiState": {
+                "mode": 0,
+                "x": 65,
+                "y": 24,
+                "width": 1301,
+                "height": 744
+            }
+        }
+    }
+}

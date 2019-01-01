@@ -26,12 +26,7 @@ class maladeController extends Controller
         
         return back()->with('msg', 'Ajout avec succes');
     }
-    public function destroy($id)
-    {
-                Chambre::destroy($id);
-        return redirect()->route('chambres.index')
-                        ->with('success','Chambre deleted successfully');
-    }
+   
        
 
 }

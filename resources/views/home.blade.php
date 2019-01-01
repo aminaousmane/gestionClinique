@@ -75,7 +75,7 @@ if (is_dir($dir))  {
     </div>
     
      <div class="col-md-4">
-      <a href="{{ url('consultation')}}">">
+      <a href="{{url('consultation')}}">
           <div class="link">
             <i class="fa fa-plus"></i>
             <div class="clear"></div><span>Effectuez une consulation</span>

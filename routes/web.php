@@ -19,6 +19,8 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/home', 'ConsulteController@show')->name('home');
-Route::get('/malade', 'maladeController@show')->name('malade');
+Route::get('/malade', 'maladeController@index')->name('malade');
 Route::get('/consultation', 'ConsulteController@index')->name('consultation');
+Route::get('/consultation', 'maladeController@show')->name('consultation');
 Route::post('/store', 'maladeController@store')->name('store');
+Route::post('/storeConsult', 'ConsulteController@store')->name('storeConsult');

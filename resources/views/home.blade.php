@@ -110,7 +110,7 @@ if (is_dir($dir))  {
     </div>
     
      <div class="col-md-4">
-      <a href="operation.php">
+      <a href=""{{url('operation')}}"">
           <div class="link">
             <i class="fa fa-cog"></i>
             <div class="clear"></div><span>Operation</span>

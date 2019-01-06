@@ -68,27 +68,7 @@
   </div>
 
 <div class="clear"></div>
-<!--suppression categorie-->
-
-
-    <table class="table table-striped table-bordered">
-          <tr class="tr-table">
-            <th>Numero</th>
-            <th>Description</th>
-            <th colspan="2">Operation</th>
-          </tr>
-          <!--Selection-->
-            <tr>
-              <td></td>
-              <td></td>
-              <td><a href="#"><i class="glyphicon glyphicon-trash large" style="font-size:26px"></i></a></td>
-               <td><a href="#"><i class="glyphicon glyphicon-pencil large"></i></a></td>
-
-        </tr>
-      </table>
-
       <br>
-
 </div>
 
 

@@ -15,7 +15,8 @@ class laboratoireController extends Controller
 
     public function show(Laboratoire $laboratoire)
     {
-        $laboratoire=DB::table('laboratoire')->selectRaw('laboratoire.type_examen','laboratoire.observation_labo','laboratoire.date_examen','laboratoire.frais_examen','laboratoire.malade_id_malade')->get();
+        $laboratoire=DB::table('laboratoire')->selectRaw('laboratoire.type_examen','laboratoire.observation_labo','laboratoire.date_examen',
+                               'laboratoire.frais_examen','laboratoire.malade_id_malade')->get();
         return view('home',compact('laboratoire'));
     }
 
@@ -32,6 +33,7 @@ class laboratoireController extends Controller
 
         return back()->with('msg', 'Ajout avec succes');
     }
-
     
+
+
 }
